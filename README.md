@@ -1,4 +1,5 @@
-Notes Manager
+#Notes Manager
+
 A simple text-based Notes Manager application written in Java that allows users to:
 
 Add notes
